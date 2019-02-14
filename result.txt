@@ -1,0 +1,6 @@
+Output expected from tests:
+7.
+15.
+4.75
+19.
+Exception: Failure "Are you sure the expression was given in rpn?".
